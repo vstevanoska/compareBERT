@@ -1,0 +1,1 @@
+@andrejt a ni bolj logicno teh 10 klicev dat v eno metodo in na konc vrnit en async? a mas mogoce kak link z dobrim primerom? @MihaMarki

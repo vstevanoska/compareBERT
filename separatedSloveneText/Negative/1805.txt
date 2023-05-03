@@ -1,0 +1,1 @@
+@th0r Čisto prazen je. Če ga dam na mesto primarnega diska mi ga BIOS zazna ampak to je to

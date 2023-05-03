@@ -1,0 +1,1 @@
+falcon:~# uptime  10:02:04 up 2328 days 20:09  1 user  load average: 0.03 0.01 0.00  - jokal bom ker gre ta mašina na odpi

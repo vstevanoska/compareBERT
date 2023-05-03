@@ -1,0 +1,1 @@
+Sicer ne vem kako jo bom rešil a sem vsaj našel napako. Poanta: binding v XAML je večino časa zakon v določenih situacijah pa pekel :

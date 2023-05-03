@@ -1,0 +1,1 @@
+@MladenPrajdic recimo da na UI pokličeš metodo ki zaporedno prebere  10 datotek z await. vsak ta klic bo preklopljal gor dol  @MihaMarki

@@ -1,0 +1,1 @@
+@MladenPrajdic ja. recimo v winrt je tako imaš samo async klice

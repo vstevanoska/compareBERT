@@ -1,0 +1,1 @@
+@MihaMarkic sam ce nimas sinhronizacije nazaj na originalni thread kaj je pol sploh point multiplih awaitov

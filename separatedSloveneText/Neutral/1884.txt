@@ -1,0 +1,1 @@
+@batecc Je nastavljen na AHCI ampak je možno da se nastavitve za optical drive in caddy ne štekajo

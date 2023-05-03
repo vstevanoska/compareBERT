@@ -1,0 +1,1 @@
+@opica @huferka naj si pogleda http://t.co/Qz2WB3sG6A. Python web framework kjer programiraš kar v brskalniku. Ne potrebuje drugega

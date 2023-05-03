@@ -1,0 +1,1 @@
+@davidbizjak OS kompletno na novo naložit (s starim osnovnim diskom in novim v caddyju) ali dam OS na nov le na novi disk

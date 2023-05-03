@@ -1,0 +1,1 @@
+.@nejcd naivno Q: a se da v iOS popolnoma izklopit obvestilo 'Cellular data is turned of for...' ki se pokaze ob zagonu appa

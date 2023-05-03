@@ -1,0 +1,1 @@
+@cashkee a imaš kak hint? ESXi 4.0. Management console se ne odziva. SSH dela. hostd restart ne pomaga. Ročno ubijanje in start ne pomaga. 

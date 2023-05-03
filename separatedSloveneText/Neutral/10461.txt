@@ -1,0 +1,1 @@
+@gcuzak piškote pobriš kadar greš večkrat gledat page s kartami ker šteje obiske

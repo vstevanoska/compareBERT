@@ -1,0 +1,1 @@
+@MladenPrajdic v eno metodo ja ampak vsako branje datoteke še vedno kličeš z awaitom in ti vmes preklaplja zato configureawait (false)

@@ -1,0 +1,1 @@
+Kako pri računanju minimuma ignorirati vrednost 0? Odkritje dneva je #Excel funkcija SMALL npr. =SMALL(B2:B9;COUNTIF(B2:B9;0)+1)

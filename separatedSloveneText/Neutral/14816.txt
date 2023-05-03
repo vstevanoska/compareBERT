@@ -1,0 +1,1 @@
+@mobitel Čudno. Widget je namreč sam od sebe prenehal delovati vsem uporabnikom naenkrat. Moj Telekom verjetno uporablja API za M:Vrata

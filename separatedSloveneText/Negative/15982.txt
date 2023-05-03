@@ -1,0 +1,1 @@
+@andrejt @MihaMarkic A ni dostda mas samo na koncu en awaitki synca nazaj na UI. zakaj bi jih mel se recimo 5 z ConfigureAwait(false) not
