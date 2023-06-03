@@ -1,1 +1,0 @@
-@MihaMarkic @MladenPrajdic ja bolje klicat async verzijo metode če ti je na voljo

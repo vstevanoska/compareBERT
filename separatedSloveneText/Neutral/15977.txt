@@ -1,1 +1,0 @@
-@MihaMarkic dej mi po kmecko razlozi kaj tocno naredi Task.ConfigureAwait. kolikor sem postekal se vrnjen Task&lt;T&gt; ne vrne v istem threadu

@@ -1,1 +1,0 @@
-slee zdajle opazla da v Chrome pri scroll baru ni vec onga gumba spodaj/zgoraj da premkanes scroll. samo clik-drag ga lahko. hm stupid

@@ -1,1 +1,0 @@
-@pengovsky Možno je da je v BIOS-u nastavljen ATAPI za tisti port na ATAPI pa gredo samo optične naprave in floppy-ji..

@@ -1,1 +1,0 @@
-@MladenPrajdic Sem si zadnjič zaželel en feature v SSMS in sicer da bi lahko imel v enem query oknu več result set-ov. Bi tvoj tool pomagal

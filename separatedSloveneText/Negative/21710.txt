@@ -1,1 +1,0 @@
-@MihaMarkic niso driverji ali aplikacije problem. Boot traja 5 min ker dela checke. Nocem checkov pejd direkt v sistem loader mamicu. :

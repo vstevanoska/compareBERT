@@ -1,1 +1,0 @@
-@TelekomSlo razvil sem widget za Androide ki je včeraj prenehal delovati. Uporablja pa vaš API za pridobivanje podatkov o porabi

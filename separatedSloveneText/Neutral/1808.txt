@@ -1,1 +1,0 @@
-@pengovsky Katere Windowse imaš? Imaš EFI BIOS ali navadnega? A je v BIOS-u nastavljen AHCI ali IDE način za diske? #toomanyvariable

@@ -1,1 +1,0 @@
-@_ermin In zakaj menisda bi dodana funkcionalnost v obliki crkovnega dropdowna ali color pickerja kakorkoli spremenila namembnost

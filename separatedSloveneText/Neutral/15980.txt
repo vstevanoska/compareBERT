@@ -1,1 +1,0 @@
-@andrejt @MihaMarkic sej! zakaj bi potem spodaj sploh rabil await? mam feeling kot da ne stekam necesa zelo enostavnega :

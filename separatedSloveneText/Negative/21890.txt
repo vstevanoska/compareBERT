@@ -1,1 +1,0 @@
-@asocialec Izklopim lahko le DHCP server. Sem resetiral in še enkrat vklopil pa je isto. Kako povezati router in modem? Klasika
